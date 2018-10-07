@@ -1,11 +1,11 @@
 ## Grading Statistics
 
-###Prerequisites:
+### Prerequisites:
 
 * Python3 w/ pandas module
 * CSV file with scores
 
-###To use:
+### To use:
 
 ```python
 python3 grading_statistics.py
