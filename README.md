@@ -2,13 +2,16 @@
 
 ### Prerequisites:
 
-* Python3 w/ pandas module
+* Python w/ pandas module
 * CSV file with scores
 
 ### To use:
 
+Put grading statistics CSV in working directory
+
+Run:
 ```python
-python3 grading_statistics.py
+python grading_statistics.py
 ```
 
 Type in the name of the CSV file when prompted.
